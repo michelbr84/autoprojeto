@@ -1,0 +1,48 @@
+1) Definição do Objetivo e Escopo — Projeto: Lista de Tarefas Diária Simples
+
+1.1 Objetivo do Projeto
+1) Propósito principal — criar e implementar uma checklist diária simples para organizar o dia e praticar gestão do tempo com mínimo atrito (papel ou app de notas).
+2) SMART:
+- Específico: adotar uma lista diária com até 8–10 tarefas essenciais (ex.: arrumar a cama, tomar banho, fazer o almoço).
+- Mensurável: usar por 14 dias; ≥70% das tarefas concluídas por dia; planejamento em ≤5 min; revisão em ≤3 min.
+- Atingível: usa apenas papel ou app gratuito; sem integrações.
+- Relevante: aumenta clareza, reduz procrastinação e esquecimentos.
+- Temporal: iniciar hoje; estabilizar rotina em 2 semanas.
+3) Problema/oportunidade: falta de organização diária e priorização; oportunidade de criar hábito simples e acessível.
+4) Critérios de sucesso:
+- Template pronto e salvo.
+- Exemplo de lista criado.
+- Rotina diária aplicada por 14 dias.
+- KPIs: adesão ≥80% dos dias; média de conclusão ≥70%; percepção de controle ≥4/5.
+
+Exemplo prático:
+- Pessoal: Implementar checklist diária e atingir ≥70% de conclusão por 14 dias em até 2 semanas.
+
+1.2 Escopo do Projeto
+1) Escopo incluído:
+- Template de checklist diário.
+- Exemplo de lista para um dia típico.
+- Passo a passo de uso: anotar, executar, marcar, revisar.
+- Dicas para ajustar o próximo dia.
+- Orientação para uso em papel ou app de notas.
+2) Escopo excluído:
+- Integrações avançadas, automações, lembretes complexos.
+- Gestão de projetos profissionais, colaboração em equipe.
+- Coaching individual e análises profundas de produtividade.
+- Gamificação e métricas sofisticadas.
+3) Macroentregas (WBS nível 1):
+- 1.0 Definição do objetivo e escopo
+- 2.0 Identificação de requisitos
+- 3.0 Planejamento (recursos mínimos, prazos, riscos)
+- 4.0 Execução passo a passo (piloto de 7–14 dias)
+- 5.0 Ferramentas recomendadas (básicas)
+- 6.0 Boas práticas e erros comuns
+4) Stakeholders:
+- Usuário (Responsável e Aprovador).
+- Assistente de Produtividade (Consultado/apoio).
+- Familiares/Coabitantes (Informados, se afetar rotinas).
+- Opcional: Gestor (Informado) se incluir tarefas de trabalho.
+
+Exemplo prático:
+- Escopo incluído: template, exemplo, passo a passo, dicas.
+- Escopo excluído: automações, integrações com apps pagos, compartilhamento em equipe.
